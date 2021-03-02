@@ -1,1 +1,1 @@
-# .github
+# .github - Default Community Health Files
